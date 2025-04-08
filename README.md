@@ -1,2 +1,3 @@
 # Vanilla-Essence
-Just a demo version of a small vanilla mod for minecraft
+Just a DEMO version of a small vanilla mod for minecraft
+this is my first site and first public mod
